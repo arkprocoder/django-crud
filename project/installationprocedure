@@ -1,0 +1,5 @@
+pip install django
+cd project
+python manage.py runserver
+
+Commands has to be run to run this project
