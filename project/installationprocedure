@@ -1,5 +1,5 @@
-pip install django
-cd project
-python manage.py runserver
+step-1 pip install django
+step-2 cd project
+step-3 python manage.py runserver
 
 Commands has to be run to run this project
